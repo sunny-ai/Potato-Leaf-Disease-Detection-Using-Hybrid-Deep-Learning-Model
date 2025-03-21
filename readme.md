@@ -21,9 +21,22 @@ The dataset used for this project consists of labeled images of potato leaves, i
     ```
 2. Navigate to the project directory:
     ```bash
-    cd potato-leaf-disease-detection
+    cd Potato-Leaf-Disease-Detection-Using-Hybrid-Deep-Learning-Model
     ```
-3. Install the required dependencies:
+3. Create a virtual environment:
+    ```bash
+    python -m venv .venv
+    ```
+4. Activate the virtual environment:
+    - On Windows:
+        ```bash
+        .venv\Scripts\activate
+        ```
+    - On macOS/Linux:
+        ```bash
+        source .venv/bin/activate
+        ```
+5. Install the required dependencies:
     ```bash
     pip install -r requirements.txt
     ```
