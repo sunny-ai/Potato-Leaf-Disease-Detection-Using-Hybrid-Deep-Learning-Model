@@ -70,7 +70,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 - Kaggle for providing the dataset.
 - Open-source libraries such as TensorFlow and PyTorch.
-
-## Contact
-
-For questions or feedback, please contact [your-email@example.com].
