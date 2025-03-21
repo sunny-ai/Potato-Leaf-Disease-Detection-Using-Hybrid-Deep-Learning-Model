@@ -17,7 +17,7 @@ The dataset used for this project consists of labeled images of potato leaves, i
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/sunny-ai/potato-leaf-disease-detection.git
+    git clone https://github.com/sunny-ai/Potato-Leaf-Disease-Detection-Using-Hybrid-Deep-Learning-Model.git
     ```
 2. Navigate to the project directory:
     ```bash
